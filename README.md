@@ -1,8 +1,4 @@
-# Build a Web App with Flutter with a rotating profile icon animation.
-
-A simple web app for listing all your social links in your bio on Instagram, Twitter, or other socials. <br/>
-- With an adition of rotating animation to the profile icon for more attractive look.
-
+# Build a Web App with Flutter
 
 ![mel-bio](https://user-images.githubusercontent.com/33744796/147980353-9a49a3ad-a57e-4e90-b69f-bd0f3a303270.gif)
 
@@ -12,5 +8,4 @@ A simple web app for listing all your social links in your bio on Instagram, Twi
 
 - 🔭 I’m currently working on **Fluter**
 - 🌱 I’m currently learning **Dart**
-- 👩🏻‍💻 Connect me here at [https://mel-bio.web.app/#/](https://mel-bio.web.app/#/)
 - 💬 Ask me about **React**
